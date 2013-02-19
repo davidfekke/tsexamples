@@ -53,4 +53,4 @@ module PetAge {
 	}
 }
 
-//(module).exports = PetAge;
+(module).exports = PetAge;

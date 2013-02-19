@@ -38,3 +38,4 @@ var PetAge;
     })();
     PetAge.DogYears = DogYears;    
 })(PetAge || (PetAge = {}));
+(module).exports = PetAge;
