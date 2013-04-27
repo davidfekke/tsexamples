@@ -3,7 +3,6 @@ var __extends = this.__extends || function (d, b) {
     __.prototype = b.prototype;
     d.prototype = new __();
 };
-// Class
 var Animal = (function () {
     function Animal(Name, Legs) {
         this.Name = Name;
@@ -48,4 +47,3 @@ $(function () {
     var description = Desc.getDescription();
     alert(description);
 });
-//@ sourceMappingURL=Animal.js.map
